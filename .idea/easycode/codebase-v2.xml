@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/bank_operation.json;C:/Users/psmbo/PycharmProjects/pythonProject13/bridge.py;C:/Users/psmbo/PycharmProjects/pythonProject13/main.py" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;C:/Users/psmbo/PycharmProjects/pythonProject13&quot;:&quot;{\&quot;/main.py\&quot;:\&quot;\&quot;,\&quot;/bank_operation.json\&quot;:\&quot;\&quot;,\&quot;/bridge.py\&quot;:\&quot;\\ndef load_operation(filename):\\r\\ndef sort_operation(operations):\\r\\n\\r\\n{number_from[-1][5:7]}** **** {number_from[-1][:-12]}\\u0027\\r\\ntered_operations:\\r\\n,\\r\&quot;}&quot;}" />
+  </component>
+</project>
